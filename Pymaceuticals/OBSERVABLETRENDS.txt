@@ -1,0 +1,9 @@
+Written descriptions of observable trends:
+
+All of the treatments do not completely prevent the creation of new metastatic sites in the body, but of the treatments, Capomulin did the best job of decreasing the spread of metastatic sites. The placebo drug did the worst job.
+
+Over the course of 45 days, all the drugs lost a certain number of specimen, but the Capomulin drug lost the least population, having gone from 25 subjects to 21. The drug Infubinol had the most fatalities, going from 25 subjects to 9, with the placebo drug not far behind with 25 to 11.
+
+The only drug that caused a reduction in the volume of tumors in a cancerous body was Capomulin, with an almost 20% reduction in tumor volume. Of the rest of the drugs, Ketapril was the least effective in reducing the volume of tumors, having allowed a 57% growth over the 45 day period.
+
+We can conclusively say that Capomulin was the most effective drug in all areas of testing. The rest are inconclusive, however, given that they each were weakest in a different category--the placebo was the worst at preventing new metastatic sites, Infubinol with the lowest survival rate, and Ketapril the worst at preventing tumor growth. 
