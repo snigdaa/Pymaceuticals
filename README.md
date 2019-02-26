@@ -1,2 +1,2 @@
 # matplotlib-hw
-Homework 5 in data science, using matplotlib to visualize data
+Using pandas and matplotlib in order to analyze cancer medication effects (survival rates, tumor growth/reduction, etc.) and visualize the data.
